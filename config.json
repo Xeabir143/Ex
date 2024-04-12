@@ -69,7 +69,7 @@
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
-    "port": 3001
+    "port": 3001,
   },
   "serverUptime": {
     "enable": true,
@@ -86,7 +86,7 @@
   },
   "autoUptime": {
     "enable": true,
-    "timeInterval": 1000000,
+    "timeInterval": 3600000,
     "url": "http://goat-bot-v2.kingking8712.repl.co/",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
