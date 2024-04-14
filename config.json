@@ -35,15 +35,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
-    "100089118994023"
+    "100071880593545",""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "aminul sordar ",
+  "nickNameBot": "The Fox",
   "prefix": "/",
   "database": {
     "type": "sqlite",
@@ -69,7 +68,7 @@
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
-    "port": 3001,
+    "port": 3001
   },
   "serverUptime": {
     "enable": true,
